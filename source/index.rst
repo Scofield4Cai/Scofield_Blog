@@ -9,3 +9,6 @@ Welcome to Scofield's Blog's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   how_to_make_Blog_webpages
+
