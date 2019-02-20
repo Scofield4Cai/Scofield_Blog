@@ -31,7 +31,7 @@ import os
 extensions = ['chinese_search']
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+templates_path = ['scofieldtemplates']
 
 # The suffix of source filenames.
 source_suffix = ['.rst','.md']
@@ -57,7 +57,7 @@ release = '1.0.0'
 
 exclude_patterns = []
 
-html_theme = 'default'
+html_theme = 'sphinx'
 
 html_static_path = ['scofieldstatic']
 
