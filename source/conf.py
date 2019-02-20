@@ -57,7 +57,7 @@ release = '1.0.0'
 
 exclude_patterns = []
 
-html_theme = 'sphinx'
+html_theme = 'default'
 
 html_static_path = ['scofieldstatic']
 
